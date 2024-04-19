@@ -1,0 +1,52 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "vizsga",
+    "dateExported": "2024-04-19T12:12:12.431Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "68577a6c-d8e4-4e1a-91ed-43f727beacad",
+            "colId": "757491a4-da73-4012-8174-0126970c768b",
+            "containerId": "",
+            "name": "http://127.0.0.1:8000/show/?id=1",
+            "url": "http://127.0.0.1:8000/show/?id=1",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-04-19T12:07:55.336Z",
+            "modified": "2024-04-19T12:07:55.336Z",
+            "headers": [],
+            "params": [
+                {
+                    "name": "id",
+                    "value": "1",
+                    "isPath": false
+                }
+            ]
+        },
+        {
+            "_id": "09a99e8f-c302-4600-9dfa-4e1e7c3691ad",
+            "colId": "757491a4-da73-4012-8174-0126970c768b",
+            "containerId": "",
+            "name": "http://127.0.0.1:8000/show/",
+            "url": "http://127.0.0.1:8000/show/",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-04-19T12:08:12.064Z",
+            "modified": "2024-04-19T12:08:12.064Z",
+            "headers": []
+        },
+        {
+            "_id": "7c0edec5-c018-43fa-8094-4e9343be9612",
+            "colId": "757491a4-da73-4012-8174-0126970c768b",
+            "containerId": "",
+            "name": "http://127.0.0.1:8000/showk/",
+            "url": "http://127.0.0.1:8000/showk/",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2024-04-19T12:12:08.406Z",
+            "modified": "2024-04-19T12:12:08.406Z",
+            "headers": []
+        }
+    ]
+}
